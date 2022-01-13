@@ -1,4 +1,4 @@
-<h3> este projeto foi realizado com a proposta de um desafio da Rocketseat, componetizando aplicação. </h3>
+<h3> este projeto foi realizado com a proposta de um desafio da Rocketseat, Componentizando aplicação. </h3>
 <br />
 <p>1° - Clone o repositorio utilizando o seu terminal de preferencia</p>
 
