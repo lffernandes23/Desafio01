@@ -2,9 +2,19 @@
 <br />
 <p>1° - Clone o repositorio utilizando o seu terminal de preferencia</p>
 
+
+![WatchMe](https://user-images.githubusercontent.com/82827767/151057303-f3fc1bca-7bd3-4d52-89b3-50098e02d25b.gif)
+
+</br>
 ```bash
    git clone https://github.com/lffernandes23/Desafio01.git
 ```
+</br>
+
+<p> No seu terminal adicione uma fake API </p>
+   ```bash
+   yarn && yarn server
+   ```
 
 </br>
 
