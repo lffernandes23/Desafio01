@@ -10,7 +10,7 @@
 ```bash
    git clone https://github.com/lffernandes23/Desafio01.git
 ```
-</br>
+
 
 <p> No seu terminal adicione uma fake API </p>
    ```bash
@@ -19,7 +19,6 @@
 
 
 <p>2° - Abra a pasta Desafio01 instale as dependencias na pasta e inicie o projeto</p>
-
 ```bash
    cd Desafio01 && yarn && yarn server
 ```
