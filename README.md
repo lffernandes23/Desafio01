@@ -17,7 +17,6 @@
    yarn && yarn server
    ```
 
-</br>
 
 <p>2° - Abra a pasta Desafio01 instale as dependencias na pasta e inicie o projeto</p>
 
