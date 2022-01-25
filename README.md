@@ -15,7 +15,9 @@
 
 
 <p>2º No seu terminal adicione uma fake API </p>
-   ```bash
+
+
+```bash
    yarn && yarn server
 ```
 
@@ -23,6 +25,8 @@
 
 
 <p>3º - Abra a pasta Desafio01 instale as dependencias na pasta e inicie o projeto</p>
+
+
 ```bash
    cd Desafio01 && yarn && yarn server
 ```
